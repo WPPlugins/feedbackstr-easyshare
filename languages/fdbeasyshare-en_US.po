@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feedbackstr easyShare v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 08:02+0100\n"
+"PO-Revision-Date: 2016-02-24 08:02+0100\n"
+"Last-Translator: benjamin-sonnenschein <benjamin.sonnenschein@spectos.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard/dashboard.php:49
+msgid "OFF"
+msgstr ""
+
+#: dashboard/dashboard.php:50
+msgid "ON"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:53
+msgid "Welcome to Feedbackstr easyShare."
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:64
+msgid "Surveys short URL"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:65
+msgid "Please enter your surveys short URL."
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:74
+msgid "Tab Style"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:75
+msgid "On which side should your tab be displayed?"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:81 dashboard/dashboard.php:86
+msgid "Left"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:83 dashboard/dashboard.php:87
+msgid "Right"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:94
+msgid "Open"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:95
+msgid "How should the website open after clicking on the tab?"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:104 dashboard/dashboard.php:112
+msgid "sliding"
+msgstr "Sliding"
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:106 dashboard/dashboard.php:113
+msgid "fullpage"
+msgstr "Fullpage"
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:108 dashboard/dashboard.php:114
+msgid "window"
+msgstr "New Window"
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:127
+msgid "Select tab color"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:128
+msgid "Which color should the tab have?"
+msgstr ""
+
+#: dashboard/dashboard.php:138
+msgid "checked"
+msgstr ""
+
+#: dashboard/dashboard.php:139
+msgid "show sidetab"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/dashboard.php:144
+msgid "Save Settings"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/footer.php:4
+msgid "Request an account"
+msgstr ""
+
+# @ fdbeasyshare
+#: dashboard/footer.php:5 dashboard/header.php:9
+msgid "Login / Cockpit"
+msgstr ""
+
+#: dashboard/footer.php:10
+msgid ""
+"Feedbackstr is a product of <a target=\"_blank\" href=\"http://spectos.com"
+"\">Spectos</a> <br /><span style=\"color:#888;\">Thank you for using "
+"Feedbackstr Easyshare</span>"
+msgstr ""
+"Feedbackstr is a product of <a target=\"_blank\" href=\"http://spectos.com"
+"\">Spectos</a> <br /><span style=\"color:#888;\">Thank you for using "
+"Feedbackstr Easyshare</span>"
+
+# @ fdbeasyshare
+#: shortcode-button.php:57
+msgid "js/shortcode-button.js"
+msgstr ""
+
+# @ fdbeasyshare
+#~ msgid ""
+#~ "Feedbackstr is a product of <a target=\"_blank\" href=\"http://spectos.com"
+#~ "\">Spectos</a> <br /><span style=\"color:#888;\">Thank you for using "
+#~ "Feedbackstr Easyshare V ###</span>"
+#~ msgstr ""
+#~ "Feedbackstr is a product of <a target=\"_blank\" href=\"http://spectos.com"
+#~ "\">Spectos</a> <br /><span style=\"color:#888;\">Thank you for using "
+#~ "Feedbackstr Easyshare Version 1.0</span>"
